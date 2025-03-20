@@ -9,8 +9,9 @@
 | [@pookey1104](https://github.com/pookey1104) | [@mogg22](https://github.com/mogg22) |
 
 #### 🦁 아기사자
-| 김지우 |
-| --- |
-| 디지털소프트웨어공학부 |
-| <img src="https://avatars.githubusercontent.com/u/202631635?v=4"> |
-| 화이팅 |
+
+| 김지우                                                                         |
+| ------------------------------------------------------------------------------ |
+| 디지털소프트웨어공학부                                                         |
+| <img height="200" src="https://avatars.githubusercontent.com/u/202631635?v=4"> |
+| 화이팅                                                                         |
