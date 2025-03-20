@@ -12,5 +12,5 @@
 | 김지우 |
 | --- |
 | 디지털소프트웨어공학부 |
-| <img src="https://avatars.githubusercontent.com/u/202631635?v=4"> |
+| <img width="200" src="https://avatars.githubusercontent.com/u/202631635?v=4"> |
 | 화이팅 |
